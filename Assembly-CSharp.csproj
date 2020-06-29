@@ -62,6 +62,14 @@
      <Compile Include="Assets\CatPlayer.cs" />
      <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\theNotes\Script\CamControl.cs" />
+     <Compile Include="Assets\theNotes\Script\GUIConrtol_note.cs" />
+     <Compile Include="Assets\theNotes\Script\NoteAnimatorControl.cs" />
+     <None Include="Assets\theNotes\00_ReadMe\ReadMe_kr.txt" />
+     <None Include="Assets\theNotes\00_ReadMe\ReadMe_jp.txt" />
+     <None Include="Assets\theNotes\Script\IMinfo.txt" />
+     <None Include="Assets\theNotes\00_ReadMe\ReadMe_en.txt" />
+     <None Include="Assets\theNotes\Script\stateName.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
